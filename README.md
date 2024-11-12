@@ -1,9 +1,10 @@
 # Sales Dashboard
 
-![Sales Dashboard Overview](https://github.com/Janhi2004/Sales-Dashboard/blob/main/Sales%20Dashboard.png)
-
 ## Overview
 This dashboard provides an interactive, visual overview of key sales metrics, trends, and distribution across different segments and regions. It is designed for executives and analysts to monitor performance, assess growth, and make data-driven decisions. The dashboard features comprehensive metrics for Total Sales, Total Profit, and Total Quantity, with year-over-year comparisons and monthly segment analysis.
+
+![Sales Dashboard Overview](https://github.com/Janhi2004/Sales-Dashboard/blob/main/Sales%20Dashboard.png)
+
 
 ---
 
